@@ -1,2 +1,5 @@
-# -Student-performance-analysis-using-Big-data
-This project analyzes student performance using big data techniques to identify factors influencing academic success. The goal is to provide insights that help educators enhance student outcomes through data-driven strategies
+# Student-performance-analysis-using-Big-data
+execution of this project is a piece of cake.
+first of all save datasets.csv file and student.py in same folder.
+then open terminal from same folder and type "python student.py".
+Kudos.
